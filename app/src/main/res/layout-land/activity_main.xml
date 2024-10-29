@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:padding="16dp">
 
-    <!-- Primer LinearLayout para los botones -->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -25,7 +25,7 @@
             android:text="Mostrar Fragment 2" />
     </LinearLayout>
 
-    <!-- Segundo LinearLayout para los fragmentos -->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
